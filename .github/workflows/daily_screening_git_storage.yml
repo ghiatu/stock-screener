@@ -176,3 +176,11 @@ jobs:
               echo "  No changes committed"
             fi
           fi
+
+      - name: Send result to Telegram
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: "สแกนหุ้นประจำวันเสร็จแล้วครับลูกพี่! 🚀"
+          document: data/daily_scans/latest_optimized_scan.txt
