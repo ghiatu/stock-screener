@@ -9746,5 +9746,13 @@
   "TGLS": {
     "last_updated": "2026-07-09T13:57:10.333582",
     "in_earnings_season": false
+  },
+  "INTG": {
+    "last_updated": "2026-07-10T15:15:42.052887",
+    "in_earnings_season": false
+  },
+  "STUB": {
+    "last_updated": "2026-07-10T15:40:06.242012",
+    "in_earnings_season": false
   }
 }
