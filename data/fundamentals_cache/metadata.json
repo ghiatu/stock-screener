@@ -7272,7 +7272,7 @@
     "in_earnings_season": true
   },
   "SAFT": {
-    "last_updated": "2026-04-14T14:52:48.313986",
+    "last_updated": "2026-07-14T14:53:47.139870",
     "in_earnings_season": false
   },
   "SARO": {
@@ -7948,7 +7948,7 @@
     "in_earnings_season": false
   },
   "GNE": {
-    "last_updated": "2026-01-13T13:28:43.505727",
+    "last_updated": "2026-07-14T14:29:00.656017",
     "in_earnings_season": false
   },
   "TRC": {
@@ -9761,6 +9761,10 @@
   },
   "IBRX": {
     "last_updated": "2026-07-13T15:22:04.262128",
+    "in_earnings_season": false
+  },
+  "UFI": {
+    "last_updated": "2026-07-14T15:02:04.340004",
     "in_earnings_season": false
   }
 }
