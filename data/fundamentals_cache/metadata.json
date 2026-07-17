@@ -4270,5 +4270,101 @@
   "WOLF": {
     "last_updated": "2026-07-16T15:13:48.941963",
     "in_earnings_season": true
+  },
+  "AARD": {
+    "last_updated": "2026-07-17T13:56:50.151710",
+    "in_earnings_season": true
+  },
+  "ACI": {
+    "last_updated": "2026-07-17T13:57:18.243385",
+    "in_earnings_season": true
+  },
+  "ADBE": {
+    "last_updated": "2026-07-17T13:57:31.700091",
+    "in_earnings_season": true
+  },
+  "AWI": {
+    "last_updated": "2026-07-17T14:02:38.091227",
+    "in_earnings_season": true
+  },
+  "CDRE": {
+    "last_updated": "2026-07-17T14:08:00.566664",
+    "in_earnings_season": true
+  },
+  "CMCO": {
+    "last_updated": "2026-07-17T14:09:31.926541",
+    "in_earnings_season": true
+  },
+  "CMCSA": {
+    "last_updated": "2026-07-17T14:09:33.533530",
+    "in_earnings_season": true
+  },
+  "DLHC": {
+    "last_updated": "2026-07-17T14:13:32.569882",
+    "in_earnings_season": true
+  },
+  "ERII": {
+    "last_updated": "2026-07-17T14:16:23.220253",
+    "in_earnings_season": true
+  },
+  "G": {
+    "last_updated": "2026-07-17T14:19:55.942723",
+    "in_earnings_season": true
+  },
+  "ICE": {
+    "last_updated": "2026-07-17T14:24:59.154258",
+    "in_earnings_season": true
+  },
+  "LMT": {
+    "last_updated": "2026-07-17T14:30:18.241620",
+    "in_earnings_season": true
+  },
+  "MATV": {
+    "last_updated": "2026-07-17T14:31:34.669758",
+    "in_earnings_season": true
+  },
+  "MLYS": {
+    "last_updated": "2026-07-17T14:33:08.980823",
+    "in_earnings_season": true
+  },
+  "MMS": {
+    "last_updated": "2026-07-17T14:33:15.472720",
+    "in_earnings_season": true
+  },
+  "MWA": {
+    "last_updated": "2026-07-17T14:34:32.342831",
+    "in_earnings_season": true
+  },
+  "NOG": {
+    "last_updated": "2026-07-17T14:36:12.070149",
+    "in_earnings_season": true
+  },
+  "OGS": {
+    "last_updated": "2026-07-17T14:37:59.088362",
+    "in_earnings_season": true
+  },
+  "PATK": {
+    "last_updated": "2026-07-17T14:39:45.957093",
+    "in_earnings_season": true
+  },
+  "RGNX": {
+    "last_updated": "2026-07-17T14:44:23.967533",
+    "in_earnings_season": true
+  },
+  "SAM": {
+    "last_updated": "2026-07-17T14:46:05.997329",
+    "in_earnings_season": true
+  },
+  "SONO": {
+    "last_updated": "2026-07-17T14:49:10.464241",
+    "in_earnings_season": true
+  },
+  "SUI": {
+    "last_updated": "2026-07-17T14:50:30.710278",
+    "in_earnings_season": true
+  },
+  "ULTA": {
+    "last_updated": "2026-07-17T14:54:32.244833",
+    "in_earnings_season": true
   }
 }
