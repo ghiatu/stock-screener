@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RNST",
-    "fetch_date": "2026-07-15T14:52:38.402531",
+    "fetch_date": "2026-07-22T15:04:18.114087",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 170592000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 44.6153846153846,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:52:38.403232"
+  "fetched_at": "2026-07-22T15:04:18.114679"
 }

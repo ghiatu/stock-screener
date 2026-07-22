@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GWRS",
-    "fetch_date": "2026-07-15T14:28:48.022872",
+    "fetch_date": "2026-07-22T14:41:31.680784",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 12457000.0,
       "2025-06-30 00:00:00": 14241000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 2.93,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:28:48.024690"
+  "fetched_at": "2026-07-22T14:41:31.681895"
 }

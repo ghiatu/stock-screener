@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ADEA",
-    "fetch_date": "2026-07-15T14:02:15.798426",
+    "fetch_date": "2026-07-22T14:16:44.792570",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 87670000.0,
       "2025-06-30 00:00:00": 85735000.0,
@@ -23,5 +23,5 @@
     "operating_margin": 38.95,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:02:15.799414"
+  "fetched_at": "2026-07-22T14:16:44.793611"
 }
