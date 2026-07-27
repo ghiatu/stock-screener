@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ARES",
-    "fetch_date": "2026-07-15T14:06:08.392024",
+    "fetch_date": "2026-07-27T14:59:01.079627",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1088805000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 16.33,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:06:08.393381"
+  "fetched_at": "2026-07-27T14:59:01.081092"
 }
