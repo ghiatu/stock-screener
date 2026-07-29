@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AOUT",
-    "fetch_date": "2026-07-22T14:19:42.244153",
+    "fetch_date": "2026-07-29T14:30:26.785087",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": NaN,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 1.953,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:19:42.245521"
+  "fetched_at": "2026-07-29T14:30:26.786564"
 }

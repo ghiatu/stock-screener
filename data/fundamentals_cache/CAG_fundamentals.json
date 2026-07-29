@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CAG",
-    "fetch_date": "2026-07-22T14:26:02.744089",
+    "fetch_date": "2026-07-29T14:36:47.282338",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.661,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:26:02.746481"
+  "fetched_at": "2026-07-29T14:36:47.283838"
 }
