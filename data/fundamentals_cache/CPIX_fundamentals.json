@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CPIX",
-    "fetch_date": "2026-07-23T14:38:28.949556",
+    "fetch_date": "2026-07-30T14:38:33.670057",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 11713055.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.597,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-23T14:38:28.951320"
+  "fetched_at": "2026-07-30T14:38:33.671769"
 }
