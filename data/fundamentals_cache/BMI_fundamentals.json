@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BMI",
-    "fetch_date": "2026-07-28T14:37:06.158222",
+    "fetch_date": "2026-08-04T14:42:32.660315",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 238095000.0,
       "2025-09-30 00:00:00": 235651000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.801,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-28T14:37:06.159401"
+  "fetched_at": "2026-08-04T14:42:32.661833"
 }

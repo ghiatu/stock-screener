@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "STRS",
-    "fetch_date": "2026-07-28T15:22:27.290607",
+    "fetch_date": "2026-08-04T15:27:58.149241",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 5043000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 2.236,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-28T15:22:27.291769"
+  "fetched_at": "2026-08-04T15:27:58.150749"
 }
