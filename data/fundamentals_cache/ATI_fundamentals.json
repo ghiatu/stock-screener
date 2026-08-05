@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ATI",
-    "fetch_date": "2026-07-29T14:31:52.008406",
+    "fetch_date": "2026-08-05T14:32:23.054774",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1144400000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.372,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:31:52.009907"
+  "fetched_at": "2026-08-05T14:32:23.056244"
 }

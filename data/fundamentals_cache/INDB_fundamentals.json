@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "INDB",
-    "fetch_date": "2026-07-29T14:55:32.314685",
+    "fetch_date": "2026-08-05T14:56:03.248849",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 176109000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 41.66666666666667,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:55:32.315340"
+  "fetched_at": "2026-08-05T14:56:03.249486"
 }

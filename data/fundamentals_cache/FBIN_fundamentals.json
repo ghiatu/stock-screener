@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FBIN",
-    "fetch_date": "2026-07-29T14:47:13.812968",
+    "fetch_date": "2026-08-05T14:47:44.093208",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1033100000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.027,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:47:13.815247"
+  "fetched_at": "2026-08-05T14:47:44.094749"
 }

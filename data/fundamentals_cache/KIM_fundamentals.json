@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KIM",
-    "fetch_date": "2026-07-29T14:57:53.280400",
+    "fetch_date": "2026-08-05T14:58:25.389812",
     "quarterly_eps": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 0.18,
@@ -14,5 +14,5 @@
     "eps_yoy_change": 27.77777777777779,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:57:53.281217"
+  "fetched_at": "2026-08-05T14:58:25.390263"
 }

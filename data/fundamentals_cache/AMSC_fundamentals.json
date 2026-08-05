@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AMSC",
-    "fetch_date": "2026-07-29T14:29:56.856632",
+    "fetch_date": "2026-08-05T14:30:26.799171",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 66655000.0,
       "2025-06-30 00:00:00": 72358000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 1.201,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:29:56.858144"
+  "fetched_at": "2026-08-05T14:30:26.800652"
 }
