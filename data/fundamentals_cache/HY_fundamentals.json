@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HY",
-    "fetch_date": "2026-07-09T13:30:03.448348",
+    "fetch_date": "2026-08-06T14:57:57.948958",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 910400000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.81,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-09T13:30:03.450994"
+  "fetched_at": "2026-08-06T14:57:57.950471"
 }
