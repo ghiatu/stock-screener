@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CALX",
-    "fetch_date": "2026-08-04T14:44:31.738042",
+    "fetch_date": "2026-08-12T13:37:48.871271",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 241882000.0,
       "2025-09-30 00:00:00": 265437000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 0.615,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-04T14:44:31.739561"
+  "fetched_at": "2026-08-12T13:37:48.873024"
 }
