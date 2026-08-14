@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CAL",
-    "fetch_date": "2026-08-05T14:37:23.182428",
+    "fetch_date": "2026-08-14T13:34:08.875978",
     "quarterly_revenue": {
       "2025-04-30 00:00:00": 614221000.0,
       "2025-07-31 00:00:00": 658519000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.914,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-05T14:37:23.183931"
+  "fetched_at": "2026-08-14T13:34:08.877839"
 }
